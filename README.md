@@ -1,5 +1,5 @@
 - 👋 Hi, I am Dimitris Vogias @DimitrisVg
-- 👀 I’m interested in Data Science and on how we can use it to undestand and give better Geopolitical answers.Data not Opinions
+- 👀 I’m interested in Data Science and on how we can use it to undestand and give better Geopolitical answers. Data instead of opinions!
 - 🌱 I’m currently learning SQL and Machine Learning and building on my Visualization, EDA and Data Science knowledge and skills
 - 📫 You can reach me at my <a href="linkedin.com/in/dimitrisvogias.html">Linkedin<a> page or send an email at vogiasdimitris@outlook.com
 
