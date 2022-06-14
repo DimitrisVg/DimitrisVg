@@ -9,7 +9,7 @@ Here is what you can find (yet) in my repository showcasing my skills:
   * [EDA](https://github.com/DimitrisVg/greek-airspace-violations/tree/main/monthly%20analysis/EDA%20and%20data%20insights) and [Data fixing](https://github.com/DimitrisVg/greek-airspace-violations/tree/main/day%20to%20day%20analysis/data%20cleaning%20fixing)
   * [Visualization skills using Plotly](https://github.com/DimitrisVg/greek-airspace-violations/tree/main/monthly%20analysis/presentation%20and%20results/Visualizations)
   * [Word Visualization using Scattertext](https://github.com/DimitrisVg/ScatterText-USA-ICRC-CCWC-) 
-  * [Wescrapping](https://github.com/DimitrisVg/greek-airspace-violations/tree/main/day%20to%20day%20analysis/webscrapping)
+  * [Webscrapping](https://github.com/DimitrisVg/greek-airspace-violations/tree/main/day%20to%20day%20analysis/webscrapping)
   * [Dashboard Creation](https://github.com/DimitrisVg/Greek-Fires-Dashboard) ([hosted online](https://greek-forest-fires.herokuapp.com/) using Heroku)
   
   
